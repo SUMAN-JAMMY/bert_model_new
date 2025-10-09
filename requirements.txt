@@ -1,6 +1,0 @@
-flask
-tensorflow-cpu
-transformers
-numpy
-gunicorn
-tf-keras
